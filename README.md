@@ -171,6 +171,10 @@ This project is licensed under the MIT License - see the [LICENSE](https://www.g
 
 *Happy Lunar New Year!* 🧧
 
-```
+## Support ☕
 
-```
+如果您喜歡這個遊戲，歡迎請我喝杯咖啡，支持我持續開發更多有趣的專案！
+
+<a href="https://www.buymeacoffee.com/mister.p">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="180">
+</a>
